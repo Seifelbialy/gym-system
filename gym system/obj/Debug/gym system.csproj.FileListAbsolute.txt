@@ -1,0 +1,39 @@
+C:\Users\Seif elbialy\source\repos\gym system\gym system\bin\Debug\gym system.exe.config
+C:\Users\Seif elbialy\source\repos\gym system\gym system\bin\Debug\gym system.exe
+C:\Users\Seif elbialy\source\repos\gym system\gym system\bin\Debug\gym system.pdb
+C:\Users\Seif elbialy\source\repos\gym system\gym system\obj\Debug\gym system.csproj.AssemblyReference.cache
+C:\Users\Seif elbialy\source\repos\gym system\gym system\obj\Debug\gym system.csproj.SuggestedBindingRedirects.cache
+C:\Users\Seif elbialy\source\repos\gym system\gym system\obj\Debug\gym_system.Properties.Resources.resources
+C:\Users\Seif elbialy\source\repos\gym system\gym system\obj\Debug\gym system.csproj.GenerateResource.cache
+C:\Users\Seif elbialy\source\repos\gym system\gym system\obj\Debug\gym system.csproj.CoreCompileInputs.cache
+C:\Users\Seif elbialy\source\repos\gym system\gym system\obj\Debug\gym system.exe
+C:\Users\Seif elbialy\source\repos\gym system\gym system\obj\Debug\gym system.pdb
+C:\Users\Seif elbialy\source\repos\gym system\gym system\bin\Debug\Guna.UI2.dll
+C:\Users\Seif elbialy\source\repos\gym system\gym system\obj\Debug\gym_system.Form1.resources
+C:\Users\Seif elbialy\source\repos\gym system\gym system\obj\Debug\gym_system.Form2.resources
+C:\Users\Seif elbialy\source\repos\gym system\gym system\obj\Debug\gym system.csproj.CopyComplete
+C:\Users\Seif elbialy\source\repos\gym system\gym system\obj\Debug\gym_system.Form3.resources
+C:\Users\Seif elbialy\source\repos\gym system\gym system\obj\Debug\gym_system.Form4.resources
+C:\Users\Seif elbialy\source\repos\gym system\gym system\obj\Debug\gym_system.Form5.resources
+C:\Users\Seif elbialy\source\repos\gym system\gym system\obj\Debug\gym_system.Form6.resources
+C:\Users\Seif elbialy\source\repos\gym system\gym system\obj\Debug\gym_system.Form8.resources
+C:\Users\Seif elbialy\source\repos\gym system\gym system\obj\Debug\gym_system.Form7.resources
+C:\Users\abano\OneDrive\Desktop\gym system\gym system\bin\Debug\gym system.exe.config
+C:\Users\abano\OneDrive\Desktop\gym system\gym system\bin\Debug\gym system.exe
+C:\Users\abano\OneDrive\Desktop\gym system\gym system\bin\Debug\gym system.pdb
+C:\Users\abano\OneDrive\Desktop\gym system\gym system\obj\Debug\gym system.csproj.AssemblyReference.cache
+C:\Users\abano\OneDrive\Desktop\gym system\gym system\obj\Debug\gym system.csproj.SuggestedBindingRedirects.cache
+C:\Users\abano\OneDrive\Desktop\gym system\gym system\obj\Debug\gym_system.Form1.resources
+C:\Users\abano\OneDrive\Desktop\gym system\gym system\obj\Debug\gym_system.Form2.resources
+C:\Users\abano\OneDrive\Desktop\gym system\gym system\obj\Debug\gym_system.Form3.resources
+C:\Users\abano\OneDrive\Desktop\gym system\gym system\obj\Debug\gym_system.Form4.resources
+C:\Users\abano\OneDrive\Desktop\gym system\gym system\obj\Debug\gym_system.Form5.resources
+C:\Users\abano\OneDrive\Desktop\gym system\gym system\obj\Debug\gym_system.Form6.resources
+C:\Users\abano\OneDrive\Desktop\gym system\gym system\obj\Debug\gym_system.Form7.resources
+C:\Users\abano\OneDrive\Desktop\gym system\gym system\obj\Debug\gym_system.Form8.resources
+C:\Users\abano\OneDrive\Desktop\gym system\gym system\obj\Debug\gym_system.Properties.Resources.resources
+C:\Users\abano\OneDrive\Desktop\gym system\gym system\obj\Debug\gym system.csproj.GenerateResource.cache
+C:\Users\abano\OneDrive\Desktop\gym system\gym system\obj\Debug\gym system.csproj.CoreCompileInputs.cache
+C:\Users\abano\OneDrive\Desktop\gym system\gym system\obj\Debug\gym system.csproj.CopyComplete
+C:\Users\abano\OneDrive\Desktop\gym system\gym system\obj\Debug\gym system.exe
+C:\Users\abano\OneDrive\Desktop\gym system\gym system\obj\Debug\gym system.pdb
